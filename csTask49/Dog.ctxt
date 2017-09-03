@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=nameIn
+comment0.target=Dog(java.lang.String)
+comment0.text=\n\ Stores\ the\ name\ of\ the\ Dog\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=\n\ @return\ the\ Dog's\ name\n
+comment2.params=
+comment2.target=java.lang.String\ speak()
+comment2.text=\n\ @return\ a\ string\ containing\ something\ the\ Dog\ says\n
+comment3.params=
+comment3.target=int\ avgBreedWeight()
+comment3.text=\n\ @return\ weight\ of\ Dog\ \n
+numComments=4

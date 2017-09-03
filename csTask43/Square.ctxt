@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=size
+comment0.target=Square(int)
+comment0.text=Create\ new\ square\ of\ given\ size
+comment1.params=row
+comment1.target=int\ sumRow(int)
+comment1.text=Return\ the\ sum\ of\ the\ values\ in\ the\ given\ row
+comment2.params=col
+comment2.target=int\ sumCol(int)
+comment2.text=Return\ the\ sum\ of\ the\ values\ in\ the\ given\ column
+comment3.params=
+comment3.target=int\ sumMainDiag()
+comment3.text=Return\ the\ sum\ of\ the\ values\ in\ the\ main\ diagonal
+comment4.params=
+comment4.target=int\ sumOtherDiag()
+comment4.text=Return\ the\ sum\ of\ the\ values\ in\ the\ other\ diagonal
+comment5.params=
+comment5.target=boolean\ magic()
+comment5.text=\ Return\ true\ if\ the\ square\ is\ magic\ (all\ rows,\ cols,\ and\ diags\ have\nsame\ sum),\ false\ otherwise
+comment6.params=scan
+comment6.target=void\ readSquare(java.util.Scanner)
+comment6.text=\ Read\ info\ into\ the\ square\ from\ the\ input\ stream\ associated\ with\ the\nScanner\ parameter
+comment7.params=
+comment7.target=void\ printSquare()
+comment7.text=Print\ the\ contents\ of\ the\ square,\ neatly\ formatted
+numComments=8

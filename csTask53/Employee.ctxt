@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=eName\ eAddress\ ePhone\ socSecNumber\ rate
+comment0.target=Employee(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double)
+comment0.text=Sets\ up\ an\ employee\ with\ the\ specified\ information.
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=Returns\ information\ about\ an\ employee\ as\ a\ string.
+comment2.params=
+comment2.target=double\ pay()
+comment2.text=Returns\ the\ pay\ rate\ for\ this\ employee.
+numComments=3

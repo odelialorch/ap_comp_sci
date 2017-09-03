@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Staff()
+comment0.text=Sets\ up\ the\ list\ of\ staff\ members.
+comment1.params=
+comment1.target=void\ payday()
+comment1.text=Pays\ all\ staff\ members.
+numComments=2

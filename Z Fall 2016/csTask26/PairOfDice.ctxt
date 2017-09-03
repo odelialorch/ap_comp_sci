@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PairOfDice()
+comment1.params=
+comment1.target=java.lang.String\ rollDice()
+comment2.params=
+comment2.target=int\ getDie1()
+comment3.params=
+comment3.target=int\ getDie2()
+comment4.params=
+comment4.target=boolean\ isDouble()
+comment5.params=
+comment5.target=boolean\ boxCar()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

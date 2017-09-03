@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Magazine
+comment0.text=\ \n\ Represents\ a\ single\ magazine.\n\ \n\ @author\ LLC\ (modified\ by\ DJC)\n\ @version\ 6/5/2017\n
+comment1.params=newTitle
+comment1.target=Magazine(java.lang.String)
+comment1.text=Sets\ up\ the\ new\ magazine\ with\ its\ title.
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=Returns\ this\ magazine\ as\ a\ string.
+comment3.params=obj
+comment3.target=int\ compareTo(java.lang.Object)
+numComments=4

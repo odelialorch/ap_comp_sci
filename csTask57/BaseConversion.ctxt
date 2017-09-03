@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=BaseConversion
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=num\ b
+comment2.target=java.lang.String\ convert(int,\ int)
+comment2.text=\n\ Converts\ a\ base\ 10\ number\ to\ another\ base.\n
+numComments=3

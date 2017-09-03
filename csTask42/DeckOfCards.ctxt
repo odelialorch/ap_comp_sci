@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DeckOfCards()
+comment1.params=
+comment1.target=void\ shuffle()
+comment1.text=Shuffle\ the\ deck\ -\ assuming\ the\ deck\ is\ full
+comment2.params=size
+comment2.target=void\ shuffle(int)
+comment2.text=(overloaded)\ Shuffle\ the\ deck\ -\ assuming\ the\ deck\ is\ not\ full
+comment3.params=
+comment3.target=Card\ deal()
+comment3.text=Deal\ a\ card\ from\ the\ deck
+comment4.params=
+comment4.target=int\ cardsLeft()
+comment4.text=Return\ the\ number\ of\ cards\ left\ in\ the\ deck
+numComments=5

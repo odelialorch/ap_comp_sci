@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\n\ Reads\ urls\ from\ a\ file\ and\ prints\ their\ path\ components.\n
+numComments=1

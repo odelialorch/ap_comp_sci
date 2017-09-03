@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=size
+comment0.target=SortedIntList(int)
+comment1.params=value
+comment1.target=void\ add(int)
+comment1.text=\ \n\ Adds\ an\ integer\ to\ the\ list.\ If\ the\ list\ is\ full,\n\ prints\ a\ message\ and\ does\ nothing.\n
+numComments=2

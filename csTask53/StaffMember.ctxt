@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=eName\ eAddress\ ePhone
+comment0.target=StaffMember(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=Sets\ up\ a\ staff\ member\ using\ the\ specified\ information.
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=Returns\ a\ string\ including\ the\ basic\ employee\ information.
+comment2.params=
+comment2.target=double\ pay()
+comment2.text=\ Derived\ classes\ must\ define\ the\ pay\ method\ for\ each\ type\ of\nemployee.
+numComments=3

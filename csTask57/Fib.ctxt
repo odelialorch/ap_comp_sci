@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Fib
+comment0.text=\n\ A\ utility\ class\ that\ provide\ methods\ to\ compute\ elements\ of\ the\n\ Fibonacci\ sequence.\n
+comment1.params=n
+comment1.target=int\ fib1(int)
+comment1.text=\n\ Recursively\ computes\ fib(n)\n
+comment2.params=n
+comment2.target=int\ fib2(int)
+numComments=3

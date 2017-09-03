@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=rank
+comment0.target=int\ setPriority(int)
+comment1.params=
+comment1.target=int\ getPriority()
+numComments=2

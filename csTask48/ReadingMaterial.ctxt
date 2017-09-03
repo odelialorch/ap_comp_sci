@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=pages\ authors
+comment0.target=ReadingMaterial(int,\ java.lang.String)
+comment1.params=pages
+comment1.target=ReadingMaterial(int)
+comment2.params=
+comment2.target=int\ getNumPages()
+comment3.params=
+comment3.target=java.lang.String\ getAuthorsNames()
+numComments=4

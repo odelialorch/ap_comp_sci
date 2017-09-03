@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MagazineList
+comment0.text=\ \n\ Represents\ a\ collection\ of\ magazines.\n\ \n\ @author\ LLC\ (modified\ by\ DJC)\n\ @version\ 6/5/2017\n
+comment1.params=
+comment1.target=MagazineList()
+comment1.text=Sets\ up\ an\ empty\ list\ of\ magazines.
+comment2.params=mag
+comment2.target=void\ add(Magazine)
+comment2.text=Creates\ a\ new\ ListNode\ object\ and\ adds\ it\ to\ the\ end\ of\ the\ linked\ list.
+comment3.params=mag
+comment3.target=boolean\ delete(Magazine)
+comment3.text=Deletes\ a\ ListNode\ object\ from\ the\ linked\ list.
+comment4.params=mag
+comment4.target=void\ insert(Magazine)
+comment4.text=Inserts\ a\ ListNode\ object\ into\ the\ linked\ list.
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=Returns\ this\ list\ of\ magazines\ as\ a\ string.
+numComments=6

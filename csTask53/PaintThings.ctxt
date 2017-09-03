@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\n\ Creates\ some\ shapes\ and\ a\ Paint\ object\ and\ prints\n\ the\ amount\ of\ paint\ needed\ to\ paint\ each\ shape.\n
+numComments=1

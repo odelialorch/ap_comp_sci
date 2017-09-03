@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RPSLS
+comment0.text=\n\ Write\ a\ description\ of\ class\ RPSLS\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=u
+comment1.target=RPSLS(HandChoice)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=java.lang.String\ results()
+numComments=4

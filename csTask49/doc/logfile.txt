@@ -1,0 +1,33 @@
+Class documentation
+<---- javadoc command: ---->
+/Applications/BlueJ.app/Contents/Frameworks/jdk.framework/Versions/A/Contents/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+/Applications/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/Applications/BlueJ.app/Contents/Resources/Java/junit-4.8.2.jar:/Applications/BlueJ.app/Contents/Resources/Java/userlib/pi4j-core.jar:/Applications/BlueJ.app/Contents/Resources/Java/userlib/pi4j-device.jar:/Applications/BlueJ.app/Contents/Resources/Java/userlib/pi4j-gpio-extension.jar:/Applications/BlueJ.app/Contents/Resources/Java/userlib/pi4j-service.jar:/Users/davidcoulombe/Dropbox/Comp Sci 2014 2015/Tasks/csTask47
+-d
+/Users/davidcoulombe/Dropbox/Comp Sci 2014 2015/Tasks/csTask47/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+/Applications/BlueJ.app/Contents/Resources/Java/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+/Users/davidcoulombe/Dropbox/Comp Sci 2014 2015/Tasks/csTask47/Labrador.java
+<---- end of javadoc command ---->
+Loading source file /Users/davidcoulombe/Dropbox/Comp Sci 2014 2015/Tasks/csTask47/Labrador.java...
+/Users/davidcoulombe/Dropbox/Comp Sci 2014 2015/Tasks/csTask47/Labrador.java:39: error: illegal character: '\u2003'
+ 
+^
+/Users/davidcoulombe/Dropbox/Comp Sci 2014 2015/Tasks/csTask47/Labrador.java:40: error: reached end of file while parsing
+2 errors

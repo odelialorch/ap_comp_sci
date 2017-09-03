@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=c
+comment0.target=Paint(double)
+comment0.text=Constructor\:\ Sets\ up\ the\ paint\ object.
+comment1.params=s
+comment1.target=double\ amount(Shape)
+comment1.text=\ Returns\ the\ amount\ of\ paint\ (number\ of\ gallons)\nneeded\ to\ paint\ the\ shape\ given\ as\ the\ parameter.
+numComments=2

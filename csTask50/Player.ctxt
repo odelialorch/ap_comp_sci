@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ readPlayer()
+comment0.text=\n\ Prompts\ for\ and\ reads\ in\ the\ player's\ name,\ team,\ and\n\ jersey\ number.\n
+comment1.params=p
+comment1.target=boolean\ equals(Player)
+numComments=2

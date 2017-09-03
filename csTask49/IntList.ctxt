@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=size
+comment0.target=IntList(int)
+comment0.text=\n\ Creates\ an\ integer\ list\ of\ a\ given\ size.\n
+comment1.params=value
+comment1.target=void\ add(int)
+comment1.text=\ \n\ Adds\ an\ integer\ to\ the\ list.\ If\ the\ list\ is\ full,\n\ prints\ a\ message\ and\ does\ nothing.\n
+comment2.params=
+comment2.target=int[]\ getArray()
+comment2.text=Returns\ the\ array\ of\ integers
+comment3.params=
+comment3.target=int\ getNumElements()
+comment3.text=Returns\ the\ number\ of\ elements\ in\ the\ array\ of\ integers
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\ Returns\ a\ formatted\ string\ containing\ the\ elements\ \n\ \ of\ the\ list\ with\ their\ indices.\n
+numComments=5

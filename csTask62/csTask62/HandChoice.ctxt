@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=HandChoice
+comment0.text=\n\ Write\ a\ description\ of\ class\ HandChoice\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=str
+comment1.target=HandChoice(java.lang.String)
+comment2.params=
+comment2.target=HandChoice()
+comment3.params=
+comment3.target=java.lang.String\ getChoice()
+comment4.params=hand
+comment4.target=int\ compareTo(HandChoice)
+numComments=5

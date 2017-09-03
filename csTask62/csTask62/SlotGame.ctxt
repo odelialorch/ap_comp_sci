@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SlotGame
+comment0.text=\n\ Write\ a\ description\ of\ class\ SlotGame\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=SlotGame()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=void\ printSummary()
+numComments=4
